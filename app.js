@@ -1,2 +1,4 @@
 'use strict'
-ddd
+ddddasgadg
+
+console.log(ddd)

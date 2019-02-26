@@ -1,0 +1,19 @@
+{
+  "name": "static_resource_server",
+  "version": "1.0.0",
+  "description": "静态资源服务器 By NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szjoker/static_resource_server.git"
+  },
+  "author": "liuj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szjoker/static_resource_server/issues"
+  },
+  "homepage": "https://github.com/szjoker/static_resource_server#readme"
+}
